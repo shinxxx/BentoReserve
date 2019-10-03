@@ -1,0 +1,19 @@
+2019-10-03 11:58:07,640 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-10-03 11:59:25,950 [Worker-8: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bento.springboot:BentoReserve:0.0.1-SNAPSHOT @ C:\BENTORESERVE\BentoReserve\pom.xml.
+2019-10-03 11:59:28,698 [Worker-8: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BentoReserve/src/main/java
+2019-10-03 11:59:28,698 [Worker-8: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BentoReserve/src/main/resources
+2019-10-03 11:59:28,714 [Worker-8: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BentoReserve/src/main/resources
+2019-10-03 11:59:28,714 [Worker-8: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BentoReserve/src/test/java
+2019-10-03 11:59:29,885 [Worker-8: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2019-10-03 11:59:29,885 [Worker-8: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-10-03 11:59:30,572 [Worker-8: 入門コンテンツのインポート] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bento.springboot:BentoReserve:0.0.1-SNAPSHOT @ C:\BENTORESERVE\BentoReserve\pom.xml.
+2019-10-03 11:59:31,401 [Worker-8: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BentoReserve/src/main/java
+2019-10-03 11:59:31,401 [Worker-8: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BentoReserve/src/main/resources
+2019-10-03 11:59:31,401 [Worker-8: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BentoReserve/src/main/resources
+2019-10-03 11:59:31,401 [Worker-8: 入門コンテンツのインポート] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BentoReserve/src/test/java
+2019-10-03 11:59:31,706 [Worker-8: 入門コンテンツのインポート] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-10-03 11:59:34,485 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 11:59:34,501 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-10-03 11:59:34,547 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-03 11:59:34,547 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-10-03 11:59:34,547 [Worker-2: ワークスペースをビルド中] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\BENTORESERVE\BentoReserve\src\test\resources
